@@ -1,4 +1,4 @@
-# ubiquitous-meme
+# expert-doodle
 ## Pagination, Markdown , Random person Generator
 
 ### These three projects show ability to consume external  APIs
