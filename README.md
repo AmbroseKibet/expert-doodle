@@ -1,7 +1,7 @@
 # ubiquitous-meme
 ## Pagination, Markdown , Random person Generator
 
-### These three projects are to impove ability to consume APIs
+### These three projects show ability to consume external  APIs
 #### Pagination
 This project uses the github API to fetch followers and paginate them
 
