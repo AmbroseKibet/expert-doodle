@@ -1,12 +1,12 @@
-#ubiquitous-meme
-##Pagination, Markdown . Random person Generator
+# expert-doodle
+## Pagination, Markdown , Random person Generator
 
-###These three projects are to impove ability to consume APIs
-####Pagination
+### These three projects show ability to consume external  APIs
+#### Pagination
 This project uses the github API to fetch followers and paginate them
 
-####Markdown
+#### Markdown
 This project uses the react-markdown API ; consuming markdown text and returning it in form of HTMl/Jsx
 
-####Random user
+#### Random user
 It consumes random user data from random person APi and displays it
